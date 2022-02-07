@@ -7,7 +7,7 @@
     "allowJs": true,
     "checkJs": true,
     "sourceMap": true,
-    "removeComments": true,
+    "removeComments": false,
     "noEmit": false,
     "newLine": "crlf",
     "isolatedModules": false,

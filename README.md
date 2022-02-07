@@ -22,8 +22,8 @@ export const App: FC = () => {
   return (
     <div >
       <h4>Resize me</h4>
-        <span>Current height is {height} </span><br/>
-        <span>Current width is {width}</span>
+      <span>Current height is {height} </span><br/>
+      <span>Current width is {width}</span>
     </div>
   )
 }
