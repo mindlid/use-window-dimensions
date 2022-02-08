@@ -3,7 +3,7 @@
   "author": "saulpalv",
   "license": "mit",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A hook for getting the current window dimensions",
   "main": "lib/useWindowDimensions.js",
   "types": "lib/useWindowDimensions.d.ts",
